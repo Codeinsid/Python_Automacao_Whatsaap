@@ -21,7 +21,7 @@ mensagem = """fazendo o que de bom!
 !
 """
 
-lista_contatos = ["Meu Numero", "Lira Hashtag - Comercial", "Eu, eu mesmo", "Nós e eu", "Grupo bom", "ultimo grupo"]
+lista_contatos = ["Meu Numero", Comercial", "Eu, eu mesmo", "Nós e eu", "Grupo bom", "ultimo grupo"]
 
 # enviar a mensagem para o Meu Numero para poder depois encaminhar
 
